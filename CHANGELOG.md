@@ -1,5 +1,24 @@
 # Changelog
 
+## [2026.4.1](https://github.com/jdx/mise/compare/v2026.4.0..v2026.4.1) - 2026-04-01
+
+### New Contributors
+
+- @rndmh3ro made their first contribution in [#8839](https://github.com/jdx/mise/pull/8839)
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (1)
+
+- [`azu/dockerfile-pin`](https://github.com/azu/dockerfile-pin)
+
+#### Updated Packages (4)
+
+- [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
+- [`dandavison/delta`](https://github.com/dandavison/delta)
+- [`goreleaser/goreleaser`](https://github.com/goreleaser/goreleaser)
+- [`zellij-org/zellij`](https://github.com/zellij-org/zellij)
+
 ## [2026.4.0](https://github.com/jdx/mise/compare/v2026.3.18..v2026.4.0) - 2026-04-01
 
 ### 🚀 Features
